@@ -1,5 +1,7 @@
 # RSNA-MICCAI Brain Tumor Radiogenomic Classification
 
+This is my source code for the [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification).
+
 ## Updates
 
 | Notebook                    | Info                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
